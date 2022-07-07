@@ -12,5 +12,5 @@ https://walkietakies.netlify.app/
 
 **Client:** React,Chakra UI
 
-**Server:** NodeJs Firebase
+**Server:** Firebase
 
